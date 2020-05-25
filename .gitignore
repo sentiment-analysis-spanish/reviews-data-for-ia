@@ -7,6 +7,8 @@ yarn-error.log*
 lerna-debug.log*
 large-bundle.json
 large-bundle-clean.json
+positive_reviews.json
+negative_reviews.json
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
